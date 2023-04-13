@@ -14,8 +14,8 @@
 # We recommend you to use CNAME records.
 # Please add custom domain in this zone.
 CNAME records:
-  - name: test
-    value: test.com
+  - name: redcubik
+    value: redcubik.redcubik
     proxy: true
   - name: radio
     value: denniskidman.github.io
